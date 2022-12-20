@@ -52,5 +52,4 @@ class DataAdapter(private val onClicked: (DataPattern) -> Unit) : RecyclerView.A
             }
         }
     }
-
 }
